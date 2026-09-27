@@ -26,3 +26,7 @@ If the instance a valid, you will get a confirmation. Otherwise, one of the abov
 
 ## **How to use**
 In `instanceCreator.py`, select your generator, modify the kwargs as you wish, run. **CHECK YOUR INSTANCE WITH THE VALIDATOR**
+
+## **Scores: **
+- *Deja Vu:* 64148 (7.03sec)
+- *Universal Lambda:* 1 339 375 (~36sec)
