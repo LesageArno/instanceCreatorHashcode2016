@@ -30,3 +30,4 @@ In `instanceCreator.py`, select your generator, modify the kwargs as you wish, r
 ## **Sources:**
 - *DejaVu*, *Lambda* : Arno
 - *InstanceX* : Louise
+- Others : Justin
