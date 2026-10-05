@@ -33,4 +33,5 @@ For Louise's Generator, use the graphical interface at:
 ## **Sources:**
 - *DejaVu*, *Lambda* : Arno
 - *InstanceX* : Louise
+- V E R C X format : Nathan
 - Others : Justin
