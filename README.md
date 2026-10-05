@@ -27,6 +27,9 @@ If the instance a valid, you will get a confirmation. Otherwise, one of the abov
 ## **How to use**
 In `instanceCreator.py`, select your generator, modify the kwargs as you wish, run. **CHECK YOUR INSTANCE WITH THE VALIDATOR**
 
+For Louise's Generator, use the graphical interface at:
+``docker run -d --rm -p 8080:80 --name instance-generator louisesanchez/instance-generator:1.0.0``
+
 ## **Sources:**
 - *DejaVu*, *Lambda* : Arno
 - *InstanceX* : Louise
